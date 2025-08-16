@@ -2,4 +2,5 @@ aula de git
 
 Feito algumas alterações
 
-Feito algumas alterações depoi do git clone
+Feito algumas alterações depois do git clone
+Correção erro de digitação
